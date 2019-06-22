@@ -1,11 +1,11 @@
 CREATE TABLE CitiBike (
 "index" INT PRIMARY KEY,
-DateInt INT,
-Daily_Trips INT,
-Cumulative_Trips INT,
-Daily_Miles INT,	
-Cumulative_Miles INT,	
-Cumulative_Members INT
+dateint INT,
+daily_trips INT,
+cumulative_trips INT,
+daily_miles INT,
+cumulative_miles INT,
+cumulative_members INT
 );
 
 CREATE TABLE weather (
